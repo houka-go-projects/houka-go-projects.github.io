@@ -1,6 +1,6 @@
 # Snobby.fm(仮)
 
-[snobby.fm](https://snobby.github.io/)
+[snobby.fm](https://houka-go-projects.github.io/)
 
 snobとは「鼻持ちならない」を意味する英語でこのpodcastは鼻持ちならない発言を独白という形で一人語りしていくというpodcastです。
 Techな話題も話すことがありますがTech系Podcastではありません。
