@@ -17,6 +17,7 @@ hashtag: snobbyfm
 itunes_podcast_url:
 keywords: tech,snobbyfm
 language: ja
+google_analytics: UA-10816388-5
 markdown: kramdown
 permalink: /episode/:title
 sass:
