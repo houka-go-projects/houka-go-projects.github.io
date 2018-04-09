@@ -4,8 +4,8 @@ actors:
     name: luccafort
     url: http://twitter.com/luccafort
 author: luccafort
-description: 雑話を話します
-description_long: TLなどで話題になったTechなトピックや身近な話しなんかを独白として話していくpodcastです。
+description: 放課後でティータイムな話題をお届けしたりしなかったりします。
+description_long: そのときそのときで思いついたことをその場の勢いで語ったり語らなかったりお届けしたりしなかったりします。
 email: muspellsheim1985@gmail.com
 exclude:
   - Gemfile
